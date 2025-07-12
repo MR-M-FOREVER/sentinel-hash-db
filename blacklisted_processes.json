@@ -9,7 +9,7 @@
     "ollydbg.exe",
     "spoofer.exe",
     "cheatengine-i386.exe",
-    "cheatengine-x86_64-SSE4-AVX2.exe",
+    "cheatengine-x86_64-SSE4-A.exe",
     "x64dbg.exe",
     "x32dbg.exe",
     "ida64.exe",
