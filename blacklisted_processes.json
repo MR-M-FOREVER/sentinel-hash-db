@@ -1,5 +1,5 @@
 {
-  "blacklisted": [
+  "apps": [
     "cheatengine.exe",
     "cheatengine-x86_64.exe",
     "cheatengine64.exe",
