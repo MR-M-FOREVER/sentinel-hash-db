@@ -1,0 +1,45 @@
+{
+  "hardware_ban": {
+    "enabled": true,
+    "match_mode": "any", 
+    "blacklist": {
+      "cpu_ids": [
+        "BFEBFBFF000306A9",
+        "000206A7BFEBFBFF"
+      ],
+      "motherboard_serials": [
+        "MB-1234-ABCD-5678"
+      ],
+      "disk_serials": [
+        "WD-WCC4E0ABCD123",
+        "S3Z5NB0K500123"
+      ],
+      "mac_addresses": [
+        "00-1A-2B-3C-4D-5E",
+        "A1-B2-C3-D4-E5-F6"
+      ],
+      "gpu_ids": [
+        "10DE-1B80-1462-3302",
+        "1002-67DF-E271"
+      ]
+    }
+  },
+  "steam_ban": {
+    "enabled": true,
+    "blacklisted_ids": [
+      "76561198000000000",
+      "76561198111111111"
+    ]
+  },
+  "ps3d_ban": {
+    "enabled": true,
+    "blacklisted_ids": [
+      "5288611",
+      "5274398"
+    ]
+  },
+  "alerts": {
+    "include_hardware_info": true,
+    "include_screenshot": true
+  }
+}
