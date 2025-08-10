@@ -1,7 +1,5 @@
 {
   "hardware_ban": {
-    "enabled": true,
-    "match_mode": "any", 
     "blacklist": {
       "cpu_ids": [
         "BFEBFBFF000306A9",
@@ -24,3 +22,4 @@
       ]
     }
   }
+}
