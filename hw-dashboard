@@ -23,23 +23,4 @@
         "1002-67DF-E271"
       ]
     }
-  },
-  "steam_ban": {
-    "enabled": true,
-    "blacklisted_ids": [
-      "76561198000000000",
-      "76561198111111111"
-    ]
-  },
-  "ps3d_ban": {
-    "enabled": true,
-    "blacklisted_ids": [
-      "5288611",
-      "5274398"
-    ]
-  },
-  "alerts": {
-    "include_hardware_info": true,
-    "include_screenshot": true
   }
-}
