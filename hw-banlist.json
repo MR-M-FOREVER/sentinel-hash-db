@@ -1,9 +1,20 @@
-{
-  "mb_hash": ["2e1c0f7f…", "98d1a4bc…"],
-  "bios_hash": ["d1239af2…"],
-  "cpu_hash": [],
-  "disk_hash": ["9e2c4bb1…"],
-  "smbios_hash": [],
-  "tpm_hash": [],
-  "gpu_hash": []
-}
+[
+  {
+    "mb_hash": "2e1c0f7f…",
+    "bios_hash": "d1239af2…",
+    "cpu_hash": "abcd1111…",
+    "disk_hash": "9e2c4bb1…",
+    "smbios_hash": "zzzz9999…",
+    "gpu_hash": "1234abcd…",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "98d1a4bc…",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  }
+]
