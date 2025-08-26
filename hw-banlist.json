@@ -1,15 +1,123 @@
 [
   {
-    "mb_hash": "2e1c0f7f…",
-    "bios_hash": "d1239af2…",
-    "cpu_hash": "abcd1111…",
-    "disk_hash": "9e2c4bb1…",
-    "smbios_hash": "zzzz9999…",
-    "gpu_hash": "1234abcd…",
-    "tpm_hash": "41B8B8689059B5D00C7529FDBFADB249D91C7B153DB9EA33835A0AC7F61F3DCC"
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
   },
   {
-    "mb_hash": "98d1a4bc…",
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
+    "bios_hash": "",
+    "cpu_hash": "",
+    "disk_hash": "",
+    "smbios_hash": "",
+    "gpu_hash": "",
+    "tpm_hash": ""
+  },
+  {
+    "mb_hash": "",
     "bios_hash": "",
     "cpu_hash": "",
     "disk_hash": "",
