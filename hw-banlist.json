@@ -1,11 +1,11 @@
 [
   {
-    "mb_hash": "",
-    "bios_hash": "",
+    "mb_hash": "5FECEB66FFC86F38D952786C6D696C79C2DBC239DD4E91B46729D73A27FB57E9",
+    "bios_hash": "4ADCBEAB23F1B56E6193A8E1D0DD4F074148F45300B6F60DC74C4FBEBE83D613",
     "cpu_hash": "",
-    "disk_hash": "",
+    "disk_hash": "26B7ED298B821872D8B50627A4FDE4750399D1A6AEC866213B65A2599D525F0A",
     "smbios_hash": "",
-    "gpu_hash": "",
+    "gpu_hash": "A4F515BC4538A5E4AAC77B3F73982C5C2070F39EB457C263DCEA0EE38E642F68",
     "tpm_hash": ""
   },
   {
